@@ -3,4 +3,5 @@ Mostly used for creating tables.
 
 Will be using [Bootstrap](https://getbootstrap.com/). 
 
-[Main page available here](https://haddersbadders.github.io/nursing-research/)
+- [Main page available here](https://haddersbadders.github.io/nursing-research/)
+- [Bootstrap Tables page](https://getbootstrap.com/docs/5.3/content/tables/)
