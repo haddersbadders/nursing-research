@@ -9,3 +9,5 @@ Will be using [Bootstrap](https://getbootstrap.com/).
 ## Quick access to tables
 
 [Basic table example](https://haddersbadders.github.io/nursing-research/basic-table.html)
+
+[Basic table example](https://haddersbadders.github.io/nursing-research/qualvquant.html)
