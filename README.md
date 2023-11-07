@@ -10,4 +10,4 @@ Will be using [Bootstrap](https://getbootstrap.com/).
 
 [Basic table example](https://haddersbadders.github.io/nursing-research/basic-table.html)
 
-[Basic table example](https://haddersbadders.github.io/nursing-research/qualvquant.html)
+[Qualatative vs Quantative research questions](https://haddersbadders.github.io/nursing-research/qualvquant.html)
